@@ -1,14 +1,14 @@
-My dotfiles
-========
+# My dotfiles #
 
-tmux configuration
-------------------
+
+## tmux configuration ##
+
 
 A simple tmux configuration file
 
 
-Usage
-~~~~~
+### Usage ###
+
 
 Download `.tmux.conf` to your home directory
 
@@ -18,12 +18,12 @@ $ wget https://github.com/pabluk/dotfiles/raw/master/tmux/.tmux.conf
 ```
 
 
-Screenshot
-~~~~~~~~~~
+### Screenshot ###
+
 
 ![Screenshot](http://pabloseminario.com/wp-content/uploads/2013/01/tmux-conf.png)
 
 
-Author
-------
+## Author ##
+
 Pablo SEMINARIO
