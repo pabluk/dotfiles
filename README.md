@@ -28,7 +28,7 @@ $ sh tmux-django.sh
 ### Screenshot ###
 
 
-![Screenshot](http://pabloseminario.com/wp-content/uploads/2013/01/tmux-conf.png)
+![Screenshot](http://seminar.io/media/dotfiles/tmux-conf.png)
 
 
 ## Author ##
