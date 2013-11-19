@@ -7,10 +7,12 @@ set spellsuggest=5
 colorscheme delek
 set ignorecase smartcase
 set linebreak
+map <Up> gk
+map <Down> gj
 
-set ts=4
-set sw=4
-set smarttab
-set et
-set sts=4
-set ai
+set autoindent
+
+if has("autocmd")
+  au FileType python set ts=4 sw=4 smarttab et sts=4
+  au FileType ruby set ts=2 sw=2 smartindent et
+endif
