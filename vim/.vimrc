@@ -17,4 +17,5 @@ if has("autocmd")
   au FileType ruby set ts=2 sw=2 smartindent et
   au FileType sh set ts=4 sw=4 smartindent et
   au FileType html set ts=4 sw=4 smartindent et
+  au FileType css set ts=2 sw=2 smartindent et sts=2
 endif
