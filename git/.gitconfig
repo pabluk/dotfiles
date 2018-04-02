@@ -1,7 +1,5 @@
 [user]
 	name = Pablo SEMINARIO
-	email = pabluk@gmail.com
+	email = pablo@seminar.io
 [color]
 	ui = auto
-[push]
-	default = simple
